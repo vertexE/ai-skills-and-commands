@@ -1,2 +1,5 @@
 # ai-skills-and-commands
-Personal collection of skills &amp; commands
+
+## Commands
+
+- [jam](./jam.md) for core work loop, references [grill-me](https://github.com/mattpocock/skills/blob/main/grill-me/SKILL.md?plain=1)
